@@ -2,9 +2,9 @@
 EggmanLand stage ported into Sonic Generations engine
 
 # Features!
---Main EggmandLand Act rebuilt for absolute no Werehog gameplay.
---Intro cutscene rendered in real-time! (With English subtitles and ENG\JPN Voice Over!)
---Tornado Defense Act (optional, gameplay not implemented)
+- Main EggmandLand Act rebuilt for absolute no Werehog gameplay.
+- Intro cutscene rendered in real-time! (With English subtitles and ENG\JPN Voice Over!)
+- Tornado Defense Act (optional, gameplay not implemented)
 
 - Full 3D Hub World
 - 'Sonic Unleashed' physics.
